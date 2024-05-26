@@ -1,0 +1,15 @@
+M:\algorithms\c#\cs_algo\cs_algo\bin\Debug\net8.0\cs_algo.exe
+M:\algorithms\c#\cs_algo\cs_algo\bin\Debug\net8.0\cs_algo.deps.json
+M:\algorithms\c#\cs_algo\cs_algo\bin\Debug\net8.0\cs_algo.runtimeconfig.json
+M:\algorithms\c#\cs_algo\cs_algo\bin\Debug\net8.0\cs_algo.dll
+M:\algorithms\c#\cs_algo\cs_algo\bin\Debug\net8.0\cs_algo.pdb
+M:\algorithms\c#\cs_algo\cs_algo\obj\Debug\net8.0\cs_algo.GeneratedMSBuildEditorConfig.editorconfig
+M:\algorithms\c#\cs_algo\cs_algo\obj\Debug\net8.0\cs_algo.AssemblyInfoInputs.cache
+M:\algorithms\c#\cs_algo\cs_algo\obj\Debug\net8.0\cs_algo.AssemblyInfo.cs
+M:\algorithms\c#\cs_algo\cs_algo\obj\Debug\net8.0\cs_algo.csproj.CoreCompileInputs.cache
+M:\algorithms\c#\cs_algo\cs_algo\obj\Debug\net8.0\cs_algo.sourcelink.json
+M:\algorithms\c#\cs_algo\cs_algo\obj\Debug\net8.0\cs_algo.dll
+M:\algorithms\c#\cs_algo\cs_algo\obj\Debug\net8.0\refint\cs_algo.dll
+M:\algorithms\c#\cs_algo\cs_algo\obj\Debug\net8.0\cs_algo.pdb
+M:\algorithms\c#\cs_algo\cs_algo\obj\Debug\net8.0\cs_algo.genruntimeconfig.cache
+M:\algorithms\c#\cs_algo\cs_algo\obj\Debug\net8.0\ref\cs_algo.dll
