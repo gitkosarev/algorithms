@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "M:\\algorithms\\c#\\cs_algo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9D032C35-2546-4DE7-8B62-80EC5BAE5E5D}|cs_algo\\cs_algo.csproj|m:\\algorithms\\c#\\cs_algo\\cs_algo\\leetcode\\_1_two sum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D032C35-2546-4DE7-8B62-80EC5BAE5E5D}|cs_algo\\cs_algo.csproj|solutionrelative:cs_algo\\leetcode\\_1_two sum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9D032C35-2546-4DE7-8B62-80EC5BAE5E5D}|cs_algo\\cs_algo.csproj|m:\\algorithms\\c#\\cs_algo\\cs_algo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D032C35-2546-4DE7-8B62-80EC5BAE5E5D}|cs_algo\\cs_algo.csproj|solutionrelative:cs_algo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,11 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "_1_Two Sum.cs",
+              "DocumentMoniker": "M:\\algorithms\\c#\\cs_algo\\cs_algo\\Leetcode\\_1_Two Sum.cs",
+              "RelativeDocumentMoniker": "cs_algo\\Leetcode\\_1_Two Sum.cs",
+              "ToolTip": "M:\\algorithms\\c#\\cs_algo\\cs_algo\\Leetcode\\_1_Two Sum.cs",
+              "RelativeToolTip": "cs_algo\\Leetcode\\_1_Two Sum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:55:32.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "_9_Palindrome_Number.cs",
               "DocumentMoniker": "M:\\algorithms\\c#\\cs_algo\\cs_algo\\Leetcode\\_9_Palindrome_Number.cs",
               "RelativeDocumentMoniker": "cs_algo\\Leetcode\\_9_Palindrome_Number.cs",
@@ -35,13 +52,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "M:\\algorithms\\c#\\cs_algo\\cs_algo\\Program.cs",
               "RelativeDocumentMoniker": "cs_algo\\Program.cs",
               "ToolTip": "M:\\algorithms\\c#\\cs_algo\\cs_algo\\Program.cs",
               "RelativeToolTip": "cs_algo\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-26T22:31:22.651Z",
               "EditorCaption": ""
