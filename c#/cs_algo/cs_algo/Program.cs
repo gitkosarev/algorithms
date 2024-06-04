@@ -6,8 +6,9 @@ namespace cs_algo
     {
         static void Main(string[] args)
         {
-            int result = _13_Roman_to_Integer.RomanToInt("MCMXCIV");
-            Console.WriteLine(result);
+            int result1 = _409_Longest_Palindrome.LongestPalindrome("abccccdd");
+            int result2 = _409_Longest_Palindrome.LongestPalindrome("bb");
+            Console.WriteLine($"result_1: {result1}, result_2: {result2}");
         }
     }
 }
