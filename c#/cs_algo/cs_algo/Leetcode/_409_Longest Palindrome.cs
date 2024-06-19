@@ -8,7 +8,7 @@ namespace cs_algo.Leetcode
 {
     internal static class _409_Longest_Palindrome
     {
-        public static int LongestPalindrome(string s)
+        internal static int LongestPalindrome(string s)
         {
             int result = 0;
             int length = s.Length;

@@ -6,9 +6,13 @@ namespace cs_algo
     {
         static void Main(string[] args)
         {
-            int result1 = _409_Longest_Palindrome.LongestPalindrome("abccccdd");
-            int result2 = _409_Longest_Palindrome.LongestPalindrome("bb");
-            Console.WriteLine($"result_1: {result1}, result_2: {result2}");
+            int[] nums = [1, 3, 5, 6];
+            int target = 5;
+            Console.WriteLine($"target {target}: {_35_Search_Insert_Position.SearchInsert(nums, target)}");
+            target = 2;
+            Console.WriteLine($"target {target}: {_35_Search_Insert_Position.SearchInsert(nums, target)}");
+            target = 7;
+            Console.WriteLine($"target {target}: {_35_Search_Insert_Position.SearchInsert(nums, target)}");
 
 
             Console.ReadKey();
