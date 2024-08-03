@@ -6,16 +6,8 @@ namespace cs_algo
     {
         static void Main(string[] args)
         {
-            int[] nums = [1, 3, 5, 6];
-            int target = 5;
-            Console.WriteLine($"target {target}: {_35_Search_Insert_Position.SearchInsert(nums, target)}");
-            target = 2;
-            Console.WriteLine($"target {target}: {_35_Search_Insert_Position.SearchInsert(nums, target)}");
-            target = 7;
-            Console.WriteLine($"target {target}: {_35_Search_Insert_Position.SearchInsert(nums, target)}");
-
-
-            Console.ReadKey();
+            //Console.WriteLine(_69_Sqrt_x_.MySqrt(8));
+            Console.WriteLine(_69_Sqrt_x_.MySqrt(2147395599));
         }
     }
 }
